@@ -1,10 +1,10 @@
 # Emindera
 
-Emindera is an open-source client-side database framework for building fast web and mobile applications with React.
+**Emindera** is an open-source client-side database framework for building fast web and mobile applications with React.
 
-It is designed around local-first data, optimistic updates, mutation queues, real-time sync, and GraphQL-backed application state, giving apps the instant-feeling interaction model used by modern tools like Linear, but packaged for React and React Native developers.
+It is designed around local-first data, optimistic updates, mutation queues, realtime sync, and GraphQL-backed application state — giving apps the instant-feeling interaction model used by modern tools like Linear, but packaged for React and React Native developers.
 
-## Getting started
+## 🚀 Getting started
 
 The fastest way to start an Emindera project is with Create Emindera App:
 
@@ -12,15 +12,15 @@ The fastest way to start an Emindera project is with Create Emindera App:
 npx create-emindera-app
 ```
 
-For guides, concepts, and API reference, read the documentation in [`emindera/docs`](https://github.com/emindera/docs).
+Read the docs at **[docs.emindera.org](https://docs.emindera.org/)**.
 
-## Community
+## 🌐 Community
 
-Emindera is early and open-source.
+Emindera is early and fully open-source.
 
-Help us improve the project by starring the main repo, opening issues, testing examples, proposing RFCs, or contributing benchmarks.
+Help improve the project by starring the main repo, opening issues, testing examples, proposing RFCs, or contributing benchmarks.
 
-## Repos
+## 📦 Repos
 
 The Emindera organization has a few core repositories:
 
